@@ -28,4 +28,4 @@
 ## 📫 Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jchen22002)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat)](https://portfolio-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat)](https://jchen22002-portfolio.vercel.app/)

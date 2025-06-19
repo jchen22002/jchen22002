@@ -64,7 +64,13 @@
 ![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchen22002&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchen22002&layout=compact&hide_progress=true&hide=percent&theme=radical)
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jchen22002&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
 ## 📫 Socials
+
+Thanks for checking out my profile. Feel free to connect with me. I want to meet new people and build meaningful relationships, whether it's through shared professional interests or just connecting over hobbies and passions. Enthusiastic about the opportunities ahead, committed to continual growth and pushing my boundaries as a coder.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jchen22002)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat)](https://jchen22002-portfolio.vercel.app/)
+
